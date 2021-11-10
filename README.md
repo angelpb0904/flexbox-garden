@@ -112,3 +112,11 @@ Por ejemplo, `justify-content: flex-end`; moverá la rana a la derecha.
 
 **Ayuda a este ejército de ranas a ordenarse en tres columnas usando una combinación de `flex-direction` y `flex-wrap`.**
 
+## ***Nivel 20.***
+
+**Las dos propiedades `flex-direction` y `flex-wrap` son usadas a menudo en conjunto con la propiedad abreviada `flex-flow`, la cual fue creada para combinarlas. Esta propiedad abreviada, acepta un valor de cada una separada por un espacio.**
+
+**Por ejemplo, puedes usar `flex-flow` para establecer filas y envolverlas.**
+
+**Trata de usar `flex-flow` para volver a realizar el nivel anterior.**
+
