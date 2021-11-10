@@ -29,7 +29,14 @@ Por ejemplo, `justify-content: flex-end`; moverá la rana a la derecha.
 
 ## ***Nivel 4.***
 
-Ahora las hojas de lirio de los bordes se han desplazado a un costado, aumentando así el espacio entre ellas. Usa `justify-content`. En esta oportunidad, las hojas de lirio tienen el mismo espacio entre ellas.
+**Ahora las hojas de lirio de los bordes se han desplazado a un costado, aumentando así el espacio entre ellas. Usa `justify-content`. En esta oportunidad, las hojas de lirio tienen el mismo espacio entre ellas.**
 
 ## ***Nivel 5.***
 
+**Ahora usa align-items para ayudar a las ranas a llegar al fondo del estanque. Esta propiedad CSS alinea elementos verticalmente y acepta los siguientes valores:**
+
+`flex-start`: Alinea elementos a la parte superior del contenedor.
+`flex-end`: Alinea elementos a la parte inferior del contenedor.
+`center`: Alinea elementos en el centro (verticalmente hablando) del contenedor.
+`baseline`: Muestra elementos en la línea base del contenedor
+`stretch:` Elementos se estiran para ajustarse al contenedor.
