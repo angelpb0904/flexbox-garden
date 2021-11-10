@@ -22,4 +22,14 @@ Por ejemplo, `justify-content: flex-end`; moverá la rana a la derecha.
 **Nuevamente, utiliza justify-content para ayudar a esas ranas a llegar a sus hojas de lirio. Recuerda que esta propiedad CSS alinea elementos horizontalmente.**
 
 
+## ***Nivel 3.***
+
+**Ayuda a las tres ranas a encontrar sus hojas de lirio usando justify-content. En esta oportunidad, las hojas de lirio tienen mucho espacio a su alrededor.**
+
+
+## ***Nivel 4.***
+
+Ahora las hojas de lirio de los bordes se han desplazado a un costado, aumentando así el espacio entre ellas. Usa `justify-content`. En esta oportunidad, las hojas de lirio tienen el mismo espacio entre ellas.
+
+## ***Nivel 5.***
 
