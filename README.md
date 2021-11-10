@@ -92,3 +92,6 @@ Por ejemplo, `justify-content: flex-end`; moverá la rana a la derecha.
 
 **Usa la propiedad `order` para enviar la rana de color rojo a su hoja de lirio.**
 
+## ***Nivel 16.***
+
+**Otra propiedad que puedes aplicar a elementos individuales es `align-self`. Esta propiedad acepta los mismos valores de `align-items` y sus valores son usados para un elemento específico.**
