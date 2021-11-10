@@ -68,3 +68,8 @@ Por ejemplo, `justify-content: flex-end`; moverá la rana a la derecha.
 
 **Nota que cuando estableces la dirección a una fila invertida o columna, el inicio y el final también se invierten.**
 
+## ***Nivel 11.***
+
+**Ayuda a las ranas a encontrar sus hojas de lirio usando `flex-direction` y `justify-content`.**
+
+**Nota que cuando es una columna, `justify-content` cambia a vertical y `align-items` a horizontal.**
