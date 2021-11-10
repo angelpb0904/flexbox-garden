@@ -45,7 +45,15 @@ Por ejemplo, `justify-content: flex-end`; moverá la rana a la derecha.
 
 **Mueve la rana al centro del estanque, usando una combinación de `justify-content` y `align-items`.**
 
-## **Nivel 7.**
+## ***Nivel 7.***
 
 **Nuevamente, las ranas necesitan cruzar el estanque. En esta oportunidad, las hojas de lirio tienen mucho espacio alrededor de ellas. Debes usar una combinación de `justify-content` y `align-items`.**
 
+## ***Nivel 8.***
+
+**Las ranas necesitan ponerse en el mismo orden que sus hojas de lirio usando `flex-direction`. Esta propiedad CSS define la dirección de los elementos en el contenedor, y acepta los siguientes valores:**
+
+- `row`: Elementos son colocados en la misma dirección del texto.
+- `row-reverse`: Elementos son colocados en la dirección opuesta al texto.
+- `column`: Elementos se colocan de arriba hacia abajo.
+- `column-reverse`: Elementos se colocan de abajo hacia arriba.
