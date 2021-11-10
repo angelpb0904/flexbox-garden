@@ -40,3 +40,8 @@ Por ejemplo, `justify-content: flex-end`; moverá la rana a la derecha.
 `center`: Alinea elementos en el centro (verticalmente hablando) del contenedor.
 `baseline`: Muestra elementos en la línea base del contenedor
 `stretch:` Elementos se estiran para ajustarse al contenedor.
+
+## ***Nivel 6.***
+
+Mueve la rana al centro del estanque, usando una combinación de `justify-content` y `align-items`.
+
