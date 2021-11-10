@@ -82,3 +82,9 @@ Por ejemplo, `justify-content: flex-end`; moverá la rana a la derecha.
 
 **Ayuda a las ranas a encontrar sus hojas de lirio usando `flex-direction`, `justify-content`, y `align-items`.**
 
+## ***Nivel 14.***
+
+**A veces, invertir el orden de una fila o columna de un contenedor no es suficiente. En esos casos, nosotros podemos aplicar la propiedad `order` a elementos individuales. Por defecto, los elementos tienen un valor 0, pero nosotros podemos usar esta propiedad para establecerlo a un número entero positivo o negativo.**
+
+**Usa la propiedad `order` para reordenar las ranas de acuerdo a sus hojas de lirio.**
+
