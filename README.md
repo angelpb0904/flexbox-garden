@@ -132,3 +132,8 @@ Por ejemplo, `justify-content: flex-end`; moverá la rana a la derecha.
 - `stretch`: Las líneas se estiran para ajustarse al contenedor.
 
 **Esto puede ser confuso, pero `align-content` determina el espacio entre las líneas, mientras que `align-items` determina como los elementos en su conjunto están alineados dentro del contenedor. Cuando hay solo una línea, `align-content` no tiene efecto.**
+
+## ***Nivel 22.***
+
+**Ahora, la corriente ha agrupado las hojas de lirio en la parte inferior. Usa `align-content` para guiar las ranas hasta allí.**
+
