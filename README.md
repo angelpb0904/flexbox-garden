@@ -141,3 +141,16 @@ Por ejemplo, `justify-content: flex-end`; moverá la rana a la derecha.
 
 **Las ranas han tenido una fiesta, pero es momento de volver a casa. Usa una combinación de `flex-direction` y `align-content` para llevarlas a sus hojas de lirio.**
 
+## ***Nivel 24.***
+
+**Trae a las ranas a su casa una vez más usando las propiedades CSS que aprendiste:**
+
+- **`justify-content`**
+- **`align-items`**
+- **`flex-direction`**
+- **`order`**
+- **`align-self`**
+- **`flex-wrap`**
+- **`flex-flow`**
+- **`align-content`**
+
