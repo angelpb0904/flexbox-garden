@@ -62,3 +62,9 @@ Por ejemplo, `justify-content: flex-end`; moverá la rana a la derecha.
 
 **Ayuda a las ranas a encontrar su hoja de lirio en la columna usando `flex-direction`. Esta propiedad CSS define la dirección de los elementos en el contenedor, y acepta los siguientes valores:**
 
+## ***Nivel 10.***
+
+**Ayuda a las ranas a llegar a sus hojas de lirio. A pesar de que ellas parecen estar cerca, necesitarás usar `flex-direction` y `justify-content` para llegar hasta allí.**
+
+**Nota que cuando estableces la dirección a una fila invertida o columna, el inicio y el final también se invierten.**
+
