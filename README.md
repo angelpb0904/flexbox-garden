@@ -43,5 +43,9 @@ Por ejemplo, `justify-content: flex-end`; moverá la rana a la derecha.
 
 ## ***Nivel 6.***
 
-Mueve la rana al centro del estanque, usando una combinación de `justify-content` y `align-items`.
+**Mueve la rana al centro del estanque, usando una combinación de `justify-content` y `align-items`.**
+
+## **Nivel 7.**
+
+**Nuevamente, las ranas necesitan cruzar el estanque. En esta oportunidad, las hojas de lirio tienen mucho espacio alrededor de ellas. Debes usar una combinación de `justify-content` y `align-items`.**
 
