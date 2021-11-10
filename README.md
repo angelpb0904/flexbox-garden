@@ -57,3 +57,8 @@ Por ejemplo, `justify-content: flex-end`; moverá la rana a la derecha.
 - `row-reverse`: Elementos son colocados en la dirección opuesta al texto.
 - `column`: Elementos se colocan de arriba hacia abajo.
 - `column-reverse`: Elementos se colocan de abajo hacia arriba.
+
+## ***Nivel 9.***
+
+**Ayuda a las ranas a encontrar su hoja de lirio en la columna usando `flex-direction`. Esta propiedad CSS define la dirección de los elementos en el contenedor, y acepta los siguientes valores:**
+
