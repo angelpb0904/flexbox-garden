@@ -100,3 +100,10 @@ Por ejemplo, `justify-content: flex-end`; moverá la rana a la derecha.
 
 **Combina `order` con `align-self` para ayudar a las ranas a llegar a sus destinos.**
 
+## ***Nivel 18.***
+
+**¡Oh, no! Todas las ranas están apretadas en una sola fila de hojas de lirio. Manos a la obra, vamos a distribuirlas correctamente usando la propiedad `flex-wrap`, la cual acepta los siguientes valores:**
+
+- `nowrap`: Cada elemento se ajusta en una sola línea.
+- `wrap`: los elementos se envuelven alrededor de líneas adicionales.
+- `wrap-reverse`: Los elementos se envuelven alrededor de líneas adicionales en reversa.
