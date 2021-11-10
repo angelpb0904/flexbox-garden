@@ -120,3 +120,15 @@ Por ejemplo, `justify-content: flex-end`; moverá la rana a la derecha.
 
 **Trata de usar `flex-flow` para volver a realizar el nivel anterior.**
 
+## ***Nivel 21.***
+
+**Las ranas están repartidas por todo el estanque, pero las hojas de lirio están agrupadas en la parte superior. Puedes usar `align-content` para establecer como múltiples líneas están separadas una de otra. Esta propiedad acepta los siguientes valores:**
+
+- `flex-start`: Las líneas se posicionan en la parte superior del contenedor.
+- `flex-end`: Las líneas se posicionan en la parte inferior del contenedor.
+- `center`: Las líneas se posicionan en el centro (verticalmente hablando) del contenedor.
+- `space-between`: Las líneas se muestran con la misma distancia entre ellas.
+- `space-around`: Las líneas se muestran con la misma separación alrededor de ellas.
+- `stretch`: Las líneas se estiran para ajustarse al contenedor.
+
+**Esto puede ser confuso, pero `align-content` determina el espacio entre las líneas, mientras que `align-items` determina como los elementos en su conjunto están alineados dentro del contenedor. Cuando hay solo una línea, `align-content` no tiene efecto.**
